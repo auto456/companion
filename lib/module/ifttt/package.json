@@ -1,0 +1,20 @@
+{
+  "name": "ifttt",
+  "version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "ifttt" ],
+	"manufacturer": "ifttt",
+	"product": "2",
+	"shortname": "ifttt",
+  "description": "",
+  "main": "ifttt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Penner <arthur.penner@live.de>",
+  "license": "MIT",
+  "dependencies": {
+    //TODO
+    //"telnet-stream": "^1.0.4"
+  }
+}
